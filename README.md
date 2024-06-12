@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shashank
-- 👀 I’m interested in Data Science, Web Develpment
-- 🌱 I’m currently learning C/C++, HTML CSS Javascript, Python
+- 👀 Web Developer
 - 📫 How to reach me raishashank362@gmail.com
 
 <!---
